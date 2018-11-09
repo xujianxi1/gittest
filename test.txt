@@ -1,1 +1,2 @@
 git is a easy sotfware
+git is aeasy to learn
